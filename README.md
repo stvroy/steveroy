@@ -155,6 +155,5 @@
   <summary> Favorite Quotes</summary>
   <br>
   <blockquote>
-    In DevOps, failure is not an option; it’s a requirement.— Patrick Debois
-    Automation is not a silver bullet. It's a tool to help you achieve more effective operations. — Gene Kim
+  Automation is not a silver bullet. It's a tool to help you achieve more effective operations. — Gene Kim
 </blockquote>
