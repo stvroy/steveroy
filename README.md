@@ -152,7 +152,8 @@
 </details>
 
 <details>
-  <summary>Quote</summary>
+  <summary> Favorite Quotes</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
+    “In DevOps, failure is not an option; it’s a requirement.— Patrick Debois”
+    “Automation is not a silver bullet. It's a tool to help you achieve more effective operations.” — Gene Kim
