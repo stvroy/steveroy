@@ -78,13 +78,12 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" title="Bitbucket"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" title="Nginx"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppet/puppet-original.svg" alt="puppet" title="Puppet"/>
     </kbd>
     <kbd>
       <kbd>Cloud Platforms</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" title="AWS"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" title="AWS"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" title="Google Cloud Platform"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" title="Azure"/>
     </kbd>
@@ -105,13 +104,12 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" title="Jenkins"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab CI"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="githubactions" title="GitHub Actions"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-original.svg" alt="circleci" title="CircleCI"/>
     </kbd>
     <kbd>
       <kbd>Database & Caching</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="PostgreSQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="MongoDB"/>
       <img width="30px" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" title="Redis"/>
@@ -141,7 +139,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stvroy&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
   </p>
 </details>
 
@@ -149,10 +147,7 @@
   <summary>Open Source Contributions</summary>
   <br>
   <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-    <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
+    <li><strong>Coming Soon</strong></li>
   </ul>
 </details>
 
