@@ -33,7 +33,7 @@
  *
  * @constructor
  * @param {string} location - Nairobi, Kenya.
- * @param {string} languagues - English, German, Swahili.
+ * @param {string} languagues - English.
  * @param {string} jobTitle - DevOps Engineer.
  * @param {string} specialization - Streamlining and automating the deployment, management, and scaling of applications.
  * @param {string} Expertise - Creating CI/CD pipelines, managing cloud infrastructure, and ensuring system reliability and performance.
@@ -136,7 +136,7 @@
   <summary>GitHub Stats</summary>
   <br>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stvroy&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=stvroy">
   </p>
 </details>
 
